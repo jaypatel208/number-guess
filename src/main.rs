@@ -27,7 +27,7 @@ fn main() {
 
         let guess: u32 = match guess.trim().parse() {
             Ok(num) => num,
-            Err(_) => continue, //The underscore is a catchall value , continue tells the program to go to the next iteration of the loop
+            Err(_) => continue, //The underscore is a catchfall value , continue tells the program to go to the next iteration of the loop
         };
 
         println!("You guessed: {}", guess);
