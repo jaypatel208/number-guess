@@ -1,4 +1,4 @@
-workspace = { members = [ "src/control-flow", "src/functions", "src/ownership","src/variables"] }
+workspace = { members = [ "src/control-flow", "src/functions", "src/ownership", "src/references-and-borrowing", "src/the-slice-type","src/variables"] }
 [package]
 name = "number-guess"
 version = "0.1.0"
