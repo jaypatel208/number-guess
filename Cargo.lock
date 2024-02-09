@@ -13,6 +13,10 @@ name = "control-flow"
 version = "0.1.0"
 
 [[package]]
+name = "enum-examples"
+version = "0.1.0"
+
+[[package]]
 name = "functions"
 version = "0.1.0"
 
@@ -81,7 +85,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "rectangles"
+version = "0.1.0"
+
+[[package]]
 name = "references-and-borrowing"
+version = "0.1.0"
+
+[[package]]
+name = "structs"
 version = "0.1.0"
 
 [[package]]
